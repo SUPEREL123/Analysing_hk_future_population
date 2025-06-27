@@ -1,2 +1,4 @@
+# This is the data analysing for Hong Kong population got from "https://data.gov.hk/en-data/dataset/hk-pland-pland1-projections-of-population-distribution-2023-to-2031/resource/38a116d8-5053-4243-bd9d-188a7248c79b"
+
 # After analysing the data, i found that..
 ## The population trends in various districts of Hong Kong over the past decade show relative stability, with only moderate fluctuations in most areas. Notably, Sham Shui Po exhibits unusual changes, with a significant population surge from 2021 to 2024, followed by a decline and then another increase in 2026, suggesting possible short-term developments or policy impacts in the area. Additionally, the Islands District has experienced substantial population growth, which is likely influenced by large-scale development projects such as the "Lantau Tomorrow Vision." These changes highlight the impact of urban planning and development initiatives on district-level population dynamics in Hong Kong.
